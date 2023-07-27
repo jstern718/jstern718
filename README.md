@@ -3,9 +3,13 @@
 Feel free to look around! I'm a fullstack software engineer located in Brooklyn, New York. I developed a passion for building things during the pandemic. In my former life, I practiced law in New York and New Jersey.
 
 ### Skills:
-Languages  -  Javascript, Python, SQL, PostgreSQL, HTML, CSS  
-Libraries/Frameworks - React, Express, Node, Flask, sqlAlchemy, Django, jQuery, Bootstrap  
-Tools - Jest, unittest, React Testing Library, VSCode, Git, Github
+* Languages  -  Javascript, Python, HTML, CSS
+* Frameworks/Libraries/Environments: 
+  - Frontend - React, jQuery, Bootstrap
+  - Backend - Node, Express, Flask, sqlAlchemy, Django
+* Databases - SQL, PostgreSQL
+* Testing - Jest, unittest, React Testing Library
+* Tools - VSCode, Git, Github
 
 ### Contact Info:
 Email: jstern.dev@gmail.com  
