@@ -1,7 +1,19 @@
+
+### Hi, thanks for visiting my github page! 
+Feel free to look around! I'm a fullstack software engineer who developed a passion for building things during the pandemic. In my former life, I practiced law in New York and New Jersey.
+
+### Skills:
+Languages  -  Javascript, Python, SQL, PostgreSQL, HTML, CSS  
+Libraries - React, React Testing Library  
+Frameworks / Tools - Node, Express, Jest, Django, Flask, SQLAlchemy, unittest, VSCode, Git, Github
+
+### Contact Info:
+Email: jstern.dev@gmail.com  
+LinkedIn: https://www.linkedin.com/in/jstern-dev/  
+
+Don't hesitate to reach out!
+
 <!--
-
-### Hi there 👋
-
 
 **jstern718/jstern718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
