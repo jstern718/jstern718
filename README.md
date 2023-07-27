@@ -4,8 +4,8 @@ Feel free to look around! I'm a fullstack software engineer who developed a pass
 
 ### Skills:
 Languages  -  Javascript, Python, SQL, PostgreSQL, HTML, CSS  
-Libraries - React, React Testing Library  
-Frameworks / Tools - Node, Express, Jest, Django, Flask, SQLAlchemy, unittest, VSCode, Git, Github
+Libraries/Frameworks - React, Express, Node, Flask, sqlAlchemy, Django, jQuery, Bootstrap  
+Tools - Jest, unittest, React Testing Library, VSCode, Git, Github
 
 ### Contact Info:
 Email: jstern.dev@gmail.com  
